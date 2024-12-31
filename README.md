@@ -11,7 +11,7 @@ How to reach me for further inquires 📫
 - [Linkedin](https://www.linkedin.com/in/sahimahmed03/)
 - [Email](sahimsahmed@gmail.com) or sahimsahmed@gmail.com
 
-Fun fact: The project displayed were all ones I have worked on during my academicn journey. ⚡
+Fun fact: The project displayed were all ones I have worked on during my academic journey. ⚡
 
 <!---
 SahimAhmed/SahimAhmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
