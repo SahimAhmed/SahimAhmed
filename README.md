@@ -1,0 +1,19 @@
+👋 Hi, I’m Sahim Ahmed
+
+
+I have recently completed my B.S in Information Technology and Minor in Business Analytics at Pace University -
+Seidenberg School Of Computer Science and Information Systems. 🌱 
+
+I’m interested and have a passion for Project Management as well as Data Analysis. I am currently looking for an Entry level job related to my desires and
+related fields to my major/minor. 👀 
+  
+How to reach me for further inquires 📫 
+- [Linkedin](https://www.linkedin.com/in/sahimahmed03/)
+- [Email](sahimsahmed@gmail.com) or sahimsahmed@gmail.com
+
+Fun fact: The project displayed were all ones I have worked on during my academicn journey. ⚡
+
+<!---
+SahimAhmed/SahimAhmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
