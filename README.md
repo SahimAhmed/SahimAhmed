@@ -1,4 +1,4 @@
-👋 Hi, I’m Sahim Ahmed
+👋 Hi, I’m Sahim 
 
 
 I have recently completed my B.S in Information Technology and Minor in Business Analytics at Pace University -
