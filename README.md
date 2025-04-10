@@ -1,6 +1,12 @@
 # 💫 About Me:
 👋 Hi, I’m Sahim<br><br>I have recently completed my B.S in Information Technology and Minor in Business Analytics at Pace University - Seidenberg School Of Computer Science and Information Systems. 🌱<br><br>Currently a part of the COOP program as COOP fellow under the Data Analytics Track. I have recently completed a project regarding movie data and finding the best possible movie that can be made <br>with such information given using visualization tools like Tableau.<br><br>I’m interested in and have a passion for Project Management as well as Data Analysis. I am currently looking for an Entry level job related to my desires and related fields to my major/minor. 👀<br><br><br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahimsahmed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahimsahmed@gmail.com) 
